@@ -1,7 +1,4 @@
-# Projeto-Instacart
-Neste projeto, explorei um conjunto de dados da Instacart, uma plataforma de entrega de supermercado bastante usada nos EUA.
-
-📦 Projeto Instacart – Análise de Hábitos de Compra
+# 📦 Projeto Instacart – Análise de Hábitos de Compra
 
 Neste projeto, explorei um conjunto de dados da Instacart, uma plataforma de entrega de supermercado bastante usada nos EUA. A proposta foi entender o comportamento dos clientes a partir de milhões de registros de pedidos.
 
@@ -24,7 +21,7 @@ Também comparei padrões entre diferentes dias da semana, construí gráficos p
 Foi um projeto muito completo, que envolveu pré-processamento, visualização de dados e interpretação de resultados. Além disso, ajudou a reforçar boas práticas de análise e a importância de documentar cada etapa no notebook.
 
 
-📦 Instacart Project – Customer Shopping Behavior Analysis
+# 📦 Instacart Project – Customer Shopping Behavior Analysis
 
 In this project, I worked with a real dataset from Instacart, a major online grocery delivery platform in the US. The goal was to explore customer shopping patterns using millions of historical order records.
 
